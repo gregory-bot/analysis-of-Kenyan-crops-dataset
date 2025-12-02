@@ -1,4 +1,4 @@
-# Kenyan Crops Data Analysis – Unlocking Agricultural Insights 🇰🇪🌾
+# Kenyan Crops Data Analysis
 
 ![Git visualization](visualizations/git1.jpg)
 
