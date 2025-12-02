@@ -1,5 +1,7 @@
 # Kenyan Crops Data Analysis – Unlocking Agricultural Insights 🇰🇪🌾
 
+![Git visualization](visualizations/git1.jpg)
+
 A comprehensive data analysis of crop production, profitability, land use, irrigation, soil types, and seasonal trends across Kenyan counties using real agricultural datasets.
 
 ## Key Insights & Findings
