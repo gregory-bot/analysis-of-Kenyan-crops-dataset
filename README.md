@@ -61,13 +61,15 @@ Profits show seasonal fluctuations but remain resilient in high-demand crops (po
 @LuxDevHQ 
 
 ## 📌 Repository Contents
-- `data/` – Raw and cleaned datasets  
-- `notebooks/` – Jupyter notebooks with full analysis  
+- `data/` – Raw and cleaned datasets   
 - `visualizations/` – Charts and dashboards  
 - `README.md` – Project overview (you’re here!)
 
 ---
+## visuals
+![Git visualization](visualizations/git2.jpg)
+![Git visualization](visualizations/git3.jpg)
+![Git visualization](visualizations/git4.jpg)
+![Git visualization](visualizations/git5.jpg)
 
-**Let’s keep pushing data-driven decisions in Kenyan agriculture!** 🌱🇰🇪
 
-Feel free to fork, star ⭐, and contribute!
